@@ -1,4 +1,4 @@
-## DevChat API
+## DevChat REST API
 
 ### Requirements :
 - node (16.17.0)
